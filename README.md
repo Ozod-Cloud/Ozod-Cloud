@@ -37,6 +37,8 @@ Configured and validated both standard Entra Join and Entra Hybrid Join for Wind
 ### 🔹 [Intune Device Enrollment & Management](https://github.com/Ozod-Cloud/lab-intune-device-enrollment)
 Enrolled and managed Windows devices in Microsoft Intune, including automatic enrollment, device compliance policies, and configuration profiles aligned with MD-102 endpoint management objectives.
 
+### 🔹 [Intune Configuration Policies — Deploy & Modify](https://github.com/Ozod-Cloud/lab-intune-config-policies)
+Created, deployed, and modified device configuration policies for Windows 11 endpoints using Microsoft Intune — including Windows Defender exclusions, Settings restrictions, and post-deployment policy validation aligned with MD-102.
 ---
 
 ## 🛠️ Skills & Interests
